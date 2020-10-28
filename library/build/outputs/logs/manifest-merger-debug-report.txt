@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+	package
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:17:5-44
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:1-22:12
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:19:22-63
+application
+ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml:21:5-20
+uses-sdk
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		ADDED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
+		INJECTED from /home/rootx/Desktop/Projects/HijriDatePicker/library/src/main/AndroidManifest.xml
