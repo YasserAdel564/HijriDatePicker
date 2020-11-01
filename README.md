@@ -16,11 +16,7 @@ This library offers a hijri (Islamic Calendar) Date Picker designed on Google's 
 ```javascript
 
   allprojects {
-  
-    repositories { 
-                maven {   url 'https://jitpack.io' } 
-         }
-    
+      repositories {  maven { url 'https://jitpack.io' } }
   }
     
   dependencies {
