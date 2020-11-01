@@ -21,6 +21,10 @@ This library offers a hijri (Islamic Calendar) Date Picker designed on Google's 
     
   dependencies {
       implementation 'com.github.YasserAdel564:HijriDatePicker:1.0.2'
+      
+      //To Add ummalqura-calendar
+      implementation group: 'com.github.msarhan', name: 'ummalqura-calendar', version: '1.1.9'
+
   }
   ```
   
