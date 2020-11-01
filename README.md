@@ -51,6 +51,11 @@ This library offers a hijri (Islamic Calendar) Date Picker designed on Google's 
             }
         });
   ```
+  
+  
+  ## Coming Features
+ * Make The UI More Attractive
+ * Add More Validation in Date's Selection
 
  
  ## License
