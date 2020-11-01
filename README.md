@@ -73,6 +73,6 @@ See the License for the specific language governing permissions and
 limitations under the Licens
 
 
- ## CopyRight
+ ## Copyrights
 
-( Forked From alhazmy and Edited By ME ) 
+ Forked From [alhazmy] (https://github.com/alhazmy13/HijriDatePicker) and Edited By ME 
