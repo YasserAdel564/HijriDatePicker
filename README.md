@@ -3,7 +3,7 @@
 
 ## Installation
 
-# Step 1. Add the jitpack
+> Step 1. Add the jitpack
 
 allprojects {
     repositories {
@@ -12,7 +12,7 @@ allprojects {
     }
   }
   
-# Step 2. Add the dependency
+> Step 2. Add the dependency
 
   dependencies {
           implementation 'com.github.YasserAdel564:HijriDatePicker:1.0.2'
