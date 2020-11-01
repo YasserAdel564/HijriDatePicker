@@ -6,16 +6,16 @@
 > Step 1. Add the jitpack
 
 ```javascript
-allprojects {
+
+   allprojects {
+   
     repositories {
-      ...
       maven { url 'https://jitpack.io' }
     }
+    
+  }
+  
+  dependencies {
+      implementation 'com.github.YasserAdel564:HijriDatePicker:1.0.2'
   }
   ```
-  
-> Step 2. Add the dependency
-
-  dependencies {
-          implementation 'com.github.YasserAdel564:HijriDatePicker:1.0.2'
-  }
