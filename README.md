@@ -3,11 +3,11 @@
 
 ## Installation
 
-> Step 1. Add the jitpack
+> Gradle
 
 ```javascript
 
-   allprojects {
+  allprojects {
    
     repositories {
       maven { url 'https://jitpack.io' }
