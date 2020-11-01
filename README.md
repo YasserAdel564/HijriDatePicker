@@ -22,7 +22,7 @@ This library offers a hijri (Islamic Calendar) Date Picker designed on Google's 
   }
   ```
   
- >Implement
+ >Implementation
  
  ```javascript
 
@@ -51,5 +51,3 @@ This library offers a hijri (Islamic Calendar) Date Picker designed on Google's 
             }
         });
        
-          ```
-
