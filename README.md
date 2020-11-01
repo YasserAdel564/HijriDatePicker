@@ -5,12 +5,14 @@
 
 > Step 1. Add the jitpack
 
+```javascript
 allprojects {
     repositories {
       ...
       maven { url 'https://jitpack.io' }
     }
   }
+  ```
   
 > Step 2. Add the dependency
 
