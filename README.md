@@ -77,4 +77,4 @@ limitations under the Licens
 
  ## Copyrights
 
- Forked From alhazmy (https://github.com/alhazmy13/HijriDatePicker) and Edited By ME 
+ Forked From alhazmy (https://github.com/alhazmy13/HijriDatePicker) and Edited By Me
